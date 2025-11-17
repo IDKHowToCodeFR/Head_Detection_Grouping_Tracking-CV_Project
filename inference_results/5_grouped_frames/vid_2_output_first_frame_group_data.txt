@@ -1,0 +1,88 @@
+[
+    {
+        "group_id": 1,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1342,
+                1034
+            ]
+        ]
+    },
+    {
+        "group_id": 2,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1141,
+                1008
+            ]
+        ]
+    },
+    {
+        "group_id": 3,
+        "group_members": 4,
+        "member_locations": [
+            [
+                1518,
+                901
+            ],
+            [
+                1445,
+                860
+            ],
+            [
+                1373,
+                882
+            ],
+            [
+                1265,
+                860
+            ]
+        ]
+    },
+    {
+        "group_id": 4,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1117,
+                840
+            ]
+        ]
+    },
+    {
+        "group_id": 5,
+        "group_members": 2,
+        "member_locations": [
+            [
+                728,
+                796
+            ],
+            [
+                696,
+                754
+            ]
+        ]
+    },
+    {
+        "group_id": 6,
+        "group_members": 1,
+        "member_locations": [
+            [
+                915,
+                779
+            ]
+        ]
+    },
+    {
+        "group_id": 7,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1271,
+                706
+            ]
+        ]
+    }
+]

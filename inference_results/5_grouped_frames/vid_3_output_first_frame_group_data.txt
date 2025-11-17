@@ -1,0 +1,58 @@
+[
+    {
+        "group_id": 1,
+        "group_members": 3,
+        "member_locations": [
+            [
+                588,
+                620
+            ],
+            [
+                616,
+                615
+            ],
+            [
+                656,
+                598
+            ]
+        ]
+    },
+    {
+        "group_id": 2,
+        "group_members": 1,
+        "member_locations": [
+            [
+                75,
+                593
+            ]
+        ]
+    },
+    {
+        "group_id": 3,
+        "group_members": 3,
+        "member_locations": [
+            [
+                393,
+                556
+            ],
+            [
+                373,
+                551
+            ],
+            [
+                470,
+                524
+            ]
+        ]
+    },
+    {
+        "group_id": 4,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1016,
+                528
+            ]
+        ]
+    }
+]

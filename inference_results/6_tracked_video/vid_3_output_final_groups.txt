@@ -1,0 +1,48 @@
+[
+    {
+        "group_id": 1,
+        "group_members": 2,
+        "members": [
+            {
+                "location": [
+                    609.3717651367188,
+                    630.4228515625
+                ],
+                "shortest_dist": 23.96
+            },
+            {
+                "location": [
+                    619.5733642578125,
+                    608.744384765625
+                ],
+                "shortest_dist": 23.96
+            }
+        ]
+    },
+    {
+        "group_id": 2,
+        "group_members": 1,
+        "members": [
+            {
+                "location": [
+                    202.11264038085938,
+                    587.4140625
+                ],
+                "shortest_dist": 0
+            }
+        ]
+    },
+    {
+        "group_id": 3,
+        "group_members": 1,
+        "members": [
+            {
+                "location": [
+                    294.81427001953125,
+                    613.4799194335938
+                ],
+                "shortest_dist": 0
+            }
+        ]
+    }
+]

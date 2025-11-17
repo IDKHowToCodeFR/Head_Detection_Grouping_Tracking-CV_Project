@@ -1,0 +1,5 @@
+ultralytics
+numpy
+opencv-python
+
+# The 'opencv-python' package provides the 'cv2' module

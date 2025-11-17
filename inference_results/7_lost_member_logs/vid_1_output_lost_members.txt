@@ -1,0 +1,2 @@
+Frame 129: Removing stationary groups: {3}
+Frame 168: Removing stationary groups: {1}

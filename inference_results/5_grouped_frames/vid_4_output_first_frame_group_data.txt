@@ -1,0 +1,1558 @@
+[
+    {
+        "group_id": 1,
+        "group_members": 1,
+        "member_locations": [
+            [
+                953,
+                1064
+            ]
+        ]
+    },
+    {
+        "group_id": 2,
+        "group_members": 1,
+        "member_locations": [
+            [
+                848,
+                1055
+            ]
+        ]
+    },
+    {
+        "group_id": 3,
+        "group_members": 1,
+        "member_locations": [
+            [
+                793,
+                1032
+            ]
+        ]
+    },
+    {
+        "group_id": 4,
+        "group_members": 1,
+        "member_locations": [
+            [
+                756,
+                1028
+            ]
+        ]
+    },
+    {
+        "group_id": 5,
+        "group_members": 1,
+        "member_locations": [
+            [
+                787,
+                987
+            ]
+        ]
+    },
+    {
+        "group_id": 6,
+        "group_members": 1,
+        "member_locations": [
+            [
+                12,
+                984
+            ]
+        ]
+    },
+    {
+        "group_id": 7,
+        "group_members": 1,
+        "member_locations": [
+            [
+                810,
+                957
+            ]
+        ]
+    },
+    {
+        "group_id": 8,
+        "group_members": 1,
+        "member_locations": [
+            [
+                939,
+                954
+            ]
+        ]
+    },
+    {
+        "group_id": 9,
+        "group_members": 2,
+        "member_locations": [
+            [
+                710,
+                951
+            ],
+            [
+                683,
+                940
+            ]
+        ]
+    },
+    {
+        "group_id": 10,
+        "group_members": 1,
+        "member_locations": [
+            [
+                840,
+                944
+            ]
+        ]
+    },
+    {
+        "group_id": 11,
+        "group_members": 3,
+        "member_locations": [
+            [
+                1042,
+                938
+            ],
+            [
+                1021,
+                938
+            ],
+            [
+                1064,
+                920
+            ]
+        ]
+    },
+    {
+        "group_id": 12,
+        "group_members": 1,
+        "member_locations": [
+            [
+                989,
+                931
+            ]
+        ]
+    },
+    {
+        "group_id": 13,
+        "group_members": 1,
+        "member_locations": [
+            [
+                920,
+                913
+            ]
+        ]
+    },
+    {
+        "group_id": 14,
+        "group_members": 2,
+        "member_locations": [
+            [
+                28,
+                913
+            ],
+            [
+                13,
+                912
+            ]
+        ]
+    },
+    {
+        "group_id": 15,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1043,
+                887
+            ]
+        ]
+    },
+    {
+        "group_id": 16,
+        "group_members": 1,
+        "member_locations": [
+            [
+                788,
+                877
+            ]
+        ]
+    },
+    {
+        "group_id": 17,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1095,
+                868
+            ]
+        ]
+    },
+    {
+        "group_id": 18,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1135,
+                867
+            ]
+        ]
+    },
+    {
+        "group_id": 19,
+        "group_members": 1,
+        "member_locations": [
+            [
+                707,
+                863
+            ]
+        ]
+    },
+    {
+        "group_id": 20,
+        "group_members": 1,
+        "member_locations": [
+            [
+                983,
+                852
+            ]
+        ]
+    },
+    {
+        "group_id": 21,
+        "group_members": 2,
+        "member_locations": [
+            [
+                350,
+                842
+            ],
+            [
+                373,
+                840
+            ]
+        ]
+    },
+    {
+        "group_id": 22,
+        "group_members": 1,
+        "member_locations": [
+            [
+                922,
+                840
+            ]
+        ]
+    },
+    {
+        "group_id": 23,
+        "group_members": 1,
+        "member_locations": [
+            [
+                321,
+                832
+            ]
+        ]
+    },
+    {
+        "group_id": 24,
+        "group_members": 1,
+        "member_locations": [
+            [
+                629,
+                798
+            ]
+        ]
+    },
+    {
+        "group_id": 25,
+        "group_members": 1,
+        "member_locations": [
+            [
+                980,
+                798
+            ]
+        ]
+    },
+    {
+        "group_id": 26,
+        "group_members": 1,
+        "member_locations": [
+            [
+                423,
+                798
+            ]
+        ]
+    },
+    {
+        "group_id": 27,
+        "group_members": 1,
+        "member_locations": [
+            [
+                778,
+                794
+            ]
+        ]
+    },
+    {
+        "group_id": 28,
+        "group_members": 1,
+        "member_locations": [
+            [
+                57,
+                784
+            ]
+        ]
+    },
+    {
+        "group_id": 29,
+        "group_members": 1,
+        "member_locations": [
+            [
+                536,
+                776
+            ]
+        ]
+    },
+    {
+        "group_id": 30,
+        "group_members": 1,
+        "member_locations": [
+            [
+                952,
+                771
+            ]
+        ]
+    },
+    {
+        "group_id": 31,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1018,
+                768
+            ]
+        ]
+    },
+    {
+        "group_id": 32,
+        "group_members": 2,
+        "member_locations": [
+            [
+                733,
+                764
+            ],
+            [
+                753,
+                747
+            ]
+        ]
+    },
+    {
+        "group_id": 33,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1208,
+                762
+            ]
+        ]
+    },
+    {
+        "group_id": 34,
+        "group_members": 1,
+        "member_locations": [
+            [
+                906,
+                744
+            ]
+        ]
+    },
+    {
+        "group_id": 35,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1066,
+                734
+            ]
+        ]
+    },
+    {
+        "group_id": 36,
+        "group_members": 1,
+        "member_locations": [
+            [
+                849,
+                728
+            ]
+        ]
+    },
+    {
+        "group_id": 37,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1615,
+                723
+            ]
+        ]
+    },
+    {
+        "group_id": 38,
+        "group_members": 3,
+        "member_locations": [
+            [
+                1024,
+                723
+            ],
+            [
+                1036,
+                715
+            ],
+            [
+                1041,
+                701
+            ]
+        ]
+    },
+    {
+        "group_id": 39,
+        "group_members": 1,
+        "member_locations": [
+            [
+                28,
+                722
+            ]
+        ]
+    },
+    {
+        "group_id": 40,
+        "group_members": 1,
+        "member_locations": [
+            [
+                354,
+                720
+            ]
+        ]
+    },
+    {
+        "group_id": 41,
+        "group_members": 1,
+        "member_locations": [
+            [
+                490,
+                714
+            ]
+        ]
+    },
+    {
+        "group_id": 42,
+        "group_members": 2,
+        "member_locations": [
+            [
+                1211,
+                711
+            ],
+            [
+                1188,
+                698
+            ]
+        ]
+    },
+    {
+        "group_id": 43,
+        "group_members": 1,
+        "member_locations": [
+            [
+                882,
+                712
+            ]
+        ]
+    },
+    {
+        "group_id": 44,
+        "group_members": 5,
+        "member_locations": [
+            [
+                746,
+                708
+            ],
+            [
+                750,
+                694
+            ],
+            [
+                778,
+                700
+            ],
+            [
+                729,
+                676
+            ],
+            [
+                702,
+                688
+            ]
+        ]
+    },
+    {
+        "group_id": 45,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1264,
+                703
+            ]
+        ]
+    },
+    {
+        "group_id": 46,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1451,
+                696
+            ]
+        ]
+    },
+    {
+        "group_id": 47,
+        "group_members": 1,
+        "member_locations": [
+            [
+                444,
+                696
+            ]
+        ]
+    },
+    {
+        "group_id": 48,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1309,
+                695
+            ]
+        ]
+    },
+    {
+        "group_id": 49,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1616,
+                692
+            ]
+        ]
+    },
+    {
+        "group_id": 50,
+        "group_members": 2,
+        "member_locations": [
+            [
+                1002,
+                691
+            ],
+            [
+                975,
+                687
+            ]
+        ]
+    },
+    {
+        "group_id": 51,
+        "group_members": 1,
+        "member_locations": [
+            [
+                387,
+                690
+            ]
+        ]
+    },
+    {
+        "group_id": 52,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1120,
+                677
+            ]
+        ]
+    },
+    {
+        "group_id": 53,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1357,
+                675
+            ]
+        ]
+    },
+    {
+        "group_id": 54,
+        "group_members": 2,
+        "member_locations": [
+            [
+                899,
+                673
+            ],
+            [
+                883,
+                660
+            ]
+        ]
+    },
+    {
+        "group_id": 55,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1566,
+                668
+            ]
+        ]
+    },
+    {
+        "group_id": 56,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1240,
+                668
+            ]
+        ]
+    },
+    {
+        "group_id": 57,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1209,
+                667
+            ]
+        ]
+    },
+    {
+        "group_id": 58,
+        "group_members": 1,
+        "member_locations": [
+            [
+                588,
+                668
+            ]
+        ]
+    },
+    {
+        "group_id": 59,
+        "group_members": 1,
+        "member_locations": [
+            [
+                409,
+                664
+            ]
+        ]
+    },
+    {
+        "group_id": 60,
+        "group_members": 2,
+        "member_locations": [
+            [
+                1499,
+                664
+            ],
+            [
+                1510,
+                661
+            ]
+        ]
+    },
+    {
+        "group_id": 61,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1329,
+                664
+            ]
+        ]
+    },
+    {
+        "group_id": 62,
+        "group_members": 3,
+        "member_locations": [
+            [
+                953,
+                663
+            ],
+            [
+                976,
+                650
+            ],
+            [
+                928,
+                649
+            ]
+        ]
+    },
+    {
+        "group_id": 63,
+        "group_members": 3,
+        "member_locations": [
+            [
+                839,
+                658
+            ],
+            [
+                820,
+                647
+            ],
+            [
+                855,
+                642
+            ]
+        ]
+    },
+    {
+        "group_id": 64,
+        "group_members": 3,
+        "member_locations": [
+            [
+                686,
+                654
+            ],
+            [
+                661,
+                654
+            ],
+            [
+                648,
+                652
+            ]
+        ]
+    },
+    {
+        "group_id": 65,
+        "group_members": 1,
+        "member_locations": [
+            [
+                617,
+                650
+            ]
+        ]
+    },
+    {
+        "group_id": 66,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1430,
+                644
+            ]
+        ]
+    },
+    {
+        "group_id": 67,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1544,
+                643
+            ]
+        ]
+    },
+    {
+        "group_id": 68,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1669,
+                642
+            ]
+        ]
+    },
+    {
+        "group_id": 69,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1144,
+                642
+            ]
+        ]
+    },
+    {
+        "group_id": 70,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1093,
+                639
+            ]
+        ]
+    },
+    {
+        "group_id": 71,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1593,
+                631
+            ]
+        ]
+    },
+    {
+        "group_id": 72,
+        "group_members": 4,
+        "member_locations": [
+            [
+                1207,
+                628
+            ],
+            [
+                1190,
+                626
+            ],
+            [
+                1167,
+                618
+            ],
+            [
+                1186,
+                603
+            ]
+        ]
+    },
+    {
+        "group_id": 73,
+        "group_members": 1,
+        "member_locations": [
+            [
+                726,
+                627
+            ]
+        ]
+    },
+    {
+        "group_id": 74,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1241,
+                625
+            ]
+        ]
+    },
+    {
+        "group_id": 75,
+        "group_members": 1,
+        "member_locations": [
+            [
+                996,
+                625
+            ]
+        ]
+    },
+    {
+        "group_id": 76,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1377,
+                624
+            ]
+        ]
+    },
+    {
+        "group_id": 77,
+        "group_members": 2,
+        "member_locations": [
+            [
+                660,
+                624
+            ],
+            [
+                659,
+                601
+            ]
+        ]
+    },
+    {
+        "group_id": 78,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1287,
+                622
+            ]
+        ]
+    },
+    {
+        "group_id": 79,
+        "group_members": 1,
+        "member_locations": [
+            [
+                780,
+                619
+            ]
+        ]
+    },
+    {
+        "group_id": 80,
+        "group_members": 1,
+        "member_locations": [
+            [
+                886,
+                622
+            ]
+        ]
+    },
+    {
+        "group_id": 81,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1130,
+                613
+            ]
+        ]
+    },
+    {
+        "group_id": 82,
+        "group_members": 1,
+        "member_locations": [
+            [
+                851,
+                606
+            ]
+        ]
+    },
+    {
+        "group_id": 83,
+        "group_members": 4,
+        "member_locations": [
+            [
+                1447,
+                604
+            ],
+            [
+                1427,
+                604
+            ],
+            [
+                1456,
+                576
+            ],
+            [
+                1472,
+                574
+            ]
+        ]
+    },
+    {
+        "group_id": 84,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1077,
+                604
+            ]
+        ]
+    },
+    {
+        "group_id": 85,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1024,
+                605
+            ]
+        ]
+    },
+    {
+        "group_id": 86,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1501,
+                595
+            ]
+        ]
+    },
+    {
+        "group_id": 87,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1309,
+                596
+            ]
+        ]
+    },
+    {
+        "group_id": 88,
+        "group_members": 1,
+        "member_locations": [
+            [
+                757,
+                592
+            ]
+        ]
+    },
+    {
+        "group_id": 89,
+        "group_members": 1,
+        "member_locations": [
+            [
+                871,
+                573
+            ]
+        ]
+    },
+    {
+        "group_id": 90,
+        "group_members": 3,
+        "member_locations": [
+            [
+                1285,
+                568
+            ],
+            [
+                1312,
+                564
+            ],
+            [
+                1261,
+                551
+            ]
+        ]
+    },
+    {
+        "group_id": 91,
+        "group_members": 1,
+        "member_locations": [
+            [
+                709,
+                554
+            ]
+        ]
+    },
+    {
+        "group_id": 92,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1184,
+                550
+            ]
+        ]
+    },
+    {
+        "group_id": 93,
+        "group_members": 1,
+        "member_locations": [
+            [
+                900,
+                546
+            ]
+        ]
+    },
+    {
+        "group_id": 94,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1119,
+                543
+            ]
+        ]
+    },
+    {
+        "group_id": 95,
+        "group_members": 1,
+        "member_locations": [
+            [
+                942,
+                542
+            ]
+        ]
+    },
+    {
+        "group_id": 96,
+        "group_members": 1,
+        "member_locations": [
+            [
+                677,
+                528
+            ]
+        ]
+    },
+    {
+        "group_id": 97,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1233,
+                527
+            ]
+        ]
+    },
+    {
+        "group_id": 98,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1066,
+                500
+            ]
+        ]
+    },
+    {
+        "group_id": 99,
+        "group_members": 1,
+        "member_locations": [
+            [
+                844,
+                487
+            ]
+        ]
+    },
+    {
+        "group_id": 100,
+        "group_members": 2,
+        "member_locations": [
+            [
+                736,
+                487
+            ],
+            [
+                757,
+                473
+            ]
+        ]
+    },
+    {
+        "group_id": 101,
+        "group_members": 1,
+        "member_locations": [
+            [
+                919,
+                484
+            ]
+        ]
+    },
+    {
+        "group_id": 102,
+        "group_members": 2,
+        "member_locations": [
+            [
+                949,
+                474
+            ],
+            [
+                973,
+                459
+            ]
+        ]
+    },
+    {
+        "group_id": 103,
+        "group_members": 2,
+        "member_locations": [
+            [
+                876,
+                459
+            ],
+            [
+                894,
+                455
+            ]
+        ]
+    },
+    {
+        "group_id": 104,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1305,
+                458
+            ]
+        ]
+    },
+    {
+        "group_id": 105,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1574,
+                457
+            ]
+        ]
+    },
+    {
+        "group_id": 106,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1109,
+                456
+            ]
+        ]
+    },
+    {
+        "group_id": 107,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1165,
+                455
+            ]
+        ]
+    },
+    {
+        "group_id": 108,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1043,
+                455
+            ]
+        ]
+    },
+    {
+        "group_id": 109,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1230,
+                449
+            ]
+        ]
+    },
+    {
+        "group_id": 110,
+        "group_members": 1,
+        "member_locations": [
+            [
+                729,
+                437
+            ]
+        ]
+    },
+    {
+        "group_id": 111,
+        "group_members": 2,
+        "member_locations": [
+            [
+                1260,
+                436
+            ],
+            [
+                1280,
+                435
+            ]
+        ]
+    },
+    {
+        "group_id": 112,
+        "group_members": 1,
+        "member_locations": [
+            [
+                992,
+                435
+            ]
+        ]
+    },
+    {
+        "group_id": 113,
+        "group_members": 1,
+        "member_locations": [
+            [
+                923,
+                434
+            ]
+        ]
+    },
+    {
+        "group_id": 114,
+        "group_members": 2,
+        "member_locations": [
+            [
+                1672,
+                429
+            ],
+            [
+                1689,
+                427
+            ]
+        ]
+    },
+    {
+        "group_id": 115,
+        "group_members": 2,
+        "member_locations": [
+            [
+                1180,
+                425
+            ],
+            [
+                1189,
+                407
+            ]
+        ]
+    },
+    {
+        "group_id": 116,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1145,
+                415
+            ]
+        ]
+    },
+    {
+        "group_id": 117,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1234,
+                410
+            ]
+        ]
+    },
+    {
+        "group_id": 118,
+        "group_members": 2,
+        "member_locations": [
+            [
+                1042,
+                407
+            ],
+            [
+                1016,
+                406
+            ]
+        ]
+    },
+    {
+        "group_id": 119,
+        "group_members": 3,
+        "member_locations": [
+            [
+                1528,
+                406
+            ],
+            [
+                1520,
+                382
+            ],
+            [
+                1504,
+                383
+            ]
+        ]
+    },
+    {
+        "group_id": 120,
+        "group_members": 2,
+        "member_locations": [
+            [
+                783,
+                399
+            ],
+            [
+                804,
+                379
+            ]
+        ]
+    },
+    {
+        "group_id": 121,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1069,
+                387
+            ]
+        ]
+    },
+    {
+        "group_id": 122,
+        "group_members": 1,
+        "member_locations": [
+            [
+                922,
+                384
+            ]
+        ]
+    },
+    {
+        "group_id": 123,
+        "group_members": 2,
+        "member_locations": [
+            [
+                1140,
+                376
+            ],
+            [
+                1140,
+                364
+            ]
+        ]
+    },
+    {
+        "group_id": 124,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1031,
+                365
+            ]
+        ]
+    },
+    {
+        "group_id": 125,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1331,
+                356
+            ]
+        ]
+    },
+    {
+        "group_id": 126,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1088,
+                355
+            ]
+        ]
+    },
+    {
+        "group_id": 127,
+        "group_members": 1,
+        "member_locations": [
+            [
+                906,
+                355
+            ]
+        ]
+    },
+    {
+        "group_id": 128,
+        "group_members": 1,
+        "member_locations": [
+            [
+                998,
+                336
+            ]
+        ]
+    },
+    {
+        "group_id": 129,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1553,
+                331
+            ]
+        ]
+    },
+    {
+        "group_id": 130,
+        "group_members": 1,
+        "member_locations": [
+            [
+                850,
+                300
+            ]
+        ]
+    },
+    {
+        "group_id": 131,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1132,
+                280
+            ]
+        ]
+    },
+    {
+        "group_id": 132,
+        "group_members": 1,
+        "member_locations": [
+            [
+                1638,
+                269
+            ]
+        ]
+    },
+    {
+        "group_id": 133,
+        "group_members": 1,
+        "member_locations": [
+            [
+                845,
+                231
+            ]
+        ]
+    },
+    {
+        "group_id": 134,
+        "group_members": 1,
+        "member_locations": [
+            [
+                901,
+                196
+            ]
+        ]
+    },
+    {
+        "group_id": 135,
+        "group_members": 2,
+        "member_locations": [
+            [
+                803,
+                190
+            ],
+            [
+                828,
+                187
+            ]
+        ]
+    },
+    {
+        "group_id": 136,
+        "group_members": 1,
+        "member_locations": [
+            [
+                834,
+                109
+            ]
+        ]
+    },
+    {
+        "group_id": 137,
+        "group_members": 2,
+        "member_locations": [
+            [
+                852,
+                81
+            ],
+            [
+                873,
+                78
+            ]
+        ]
+    },
+    {
+        "group_id": 138,
+        "group_members": 1,
+        "member_locations": [
+            [
+                830,
+                51
+            ]
+        ]
+    }
+]

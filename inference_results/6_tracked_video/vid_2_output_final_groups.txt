@@ -1,0 +1,15 @@
+[
+    {
+        "group_id": 4,
+        "group_members": 1,
+        "members": [
+            {
+                "location": [
+                    1560.648681640625,
+                    987.6815185546875
+                ],
+                "shortest_dist": 0
+            }
+        ]
+    }
+]
