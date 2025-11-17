@@ -2,6 +2,12 @@
 
 Automated pipeline for detecting heads in video, grouping them by proximity, and tracking these groups across frames using optical flow. Built for portability, clarity, and modular expansion.
 
+## Pipeline Architecture
+
+Pipeline for the project:
+
+![Pipeline for the for the project](cv_pipeline.png)
+
 ## Project Structure
 
 ### `config.py`
@@ -57,11 +63,6 @@ output/
     └── example_video_dots_validation.log
 ```
 
-## Pipeline Architecture
-
-Pipeline for the project :
-
-![Pipeline for the for the project](cv_pipeline.png)
 
 ## Installation
 
